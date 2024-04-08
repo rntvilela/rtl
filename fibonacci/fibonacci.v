@@ -1,5 +1,5 @@
 //==============================================================================
-//					Fibonacci hardware implemation
+//					Fibonacci hardware implementation
 //					N = 0 -> 0
 //					N = 1 -> 1
 //					N > 1 -> F(N-1) + F(N-4)
